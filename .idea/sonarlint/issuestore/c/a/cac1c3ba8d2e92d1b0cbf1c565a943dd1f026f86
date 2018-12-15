@@ -1,0 +1,20 @@
+
+tsquid:S2737"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ÙÃõ¾øÿÿÿÿ
+asquid:S4042¤"IUse "java.nio.Files#delete" here for better messages on error conditions.(§†ú“
+R
+squid:S899¤";Do something with the "boolean" value returned by "delete".(§†ú“
+Vsquid:S1155Œ">Use isEmpty() to check whether the collection is empty or not.(“Æ…¦
+ssquid:S2737g"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ÙÃõ¾øÿÿÿÿ
+ssquid:S2737K"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ÙÃõ¾øÿÿÿÿ
+psquid:S2293w"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÄÒøØ
+Fsquid:S2093\"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+Bsquid:S00108«")Either remove or fill this block of code.(”ı¾
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŞêÏì
+Fsquid:S2093."*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+Asquid:S00108Q")Either remove or fill this block of code.(”ı¾
+psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(œåÙ
+Asquid:S00108o")Either remove or fill this block of code.(”ı¾
+Bsquid:S00108¥")Either remove or fill this block of code.(”ı¾
+usquid:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(…Ÿùÿÿÿÿ
+usquid:S2293{"YReplace the type specification in this constructor call with the diamond operator ("<>").(«àšòùÿÿÿÿ
+Fsquid:S2093y"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
